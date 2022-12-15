@@ -1,4 +1,4 @@
-# Funcao-Funciona-JS
+# Função Funciona no JS
 Atividade realizada no Instituto PROA.
 
 ## 1) Quantos anos tem o seu pet?
